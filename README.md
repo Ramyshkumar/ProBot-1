@@ -1,5 +1,5 @@
-# ProBot-1
-FYP Fall 2018:
+# ProBot-2
+FYP Spring 2019:
 A chat bot that is intended to be accessed for consultation over various topics and queries. 
 The queries may relate to Computer Sciences, Law, Health, Medicine, etc. 
 The idea is to make a bot that will learn through conversations with experts of various fields, so it can answer the respective questions asked by users.
