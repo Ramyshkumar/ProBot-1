@@ -1,5 +1,7 @@
 # ProBot-2
-FYP Spring 2019:
+
+# FYP Spring 2019:
+
 A chat bot that is intended to be accessed for consultation over various topics and queries. 
 The queries may relate to Computer Sciences, Law, Health, Medicine, etc. 
 The idea is to make a bot that will learn through conversations with experts of various fields, so it can answer the respective questions asked by users.
@@ -10,9 +12,10 @@ In case the query asked by the user is unknown to the bot, the bot will then pro
 Upon such situation, the user will be notified by the bot via instant messaging or emailing services.
 
 
-#Requirements:
+# Requirements:
 
 # Used by pip to install required python packages
+
 # Usage: pip install -r requirements.txt
 
 Flask>=1.0.0
